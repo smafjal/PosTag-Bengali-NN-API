@@ -33,7 +33,7 @@ Unknown - U
 
 Merged Pos-Tag list
 ===================================================
-Tag Description | Tag(Our)   |  Tag(SabirSir)
+Tag Description     |  Tag(Our)   |  Tag(SabirSir)
 ----------------------------------------------
     Noun ------       NN   ------     N
     Pronoun ---       PRP  ------     P
