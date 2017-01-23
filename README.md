@@ -1,7 +1,7 @@
 
 ## taglist=['N','V','J','D','L','A','C','RD','P','PU','PP']
 
-Postag-List (Our)
+## Postag-List
 ===================================================
 1. N - Noun { Common Proper Verbal Spatio-temporal}
 2. V - Verb { Main Auxilliary}
@@ -14,6 +14,10 @@ Postag-List (Our)
 9. P - Pronoun { Pronominal Reflexive Reciprocal Relative Wh}
 10. PU - Punctuation {Postposition}
 11. PP - Postposition
+
+## RUN 
+python PosTagMain --input input.txt --output output.txt 
+
 
 Note:
 ===================================================
